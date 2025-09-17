@@ -58,9 +58,16 @@ SmartHR/
  ├── requirements.txt    # Dependencies
  └── README.md           # Project documentation
 
-I
 
-nstallation
+
+The project is accessible at the following link: https://smarthr-4btvoahgerwoxfokxwd6u9.streamlit.app/ .
+
+USERNAME: admin
+PASSWORD: 1234
+
+In case you want to integrate other features or imporve the content of this one, you can access it by following the steps below:
+
+Installation
 
 Clone the repository:
 
